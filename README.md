@@ -4,11 +4,11 @@ For Udacity Data Science Nanodegree Program
 ## Table of Contents
 1. Description
 2. Preparation 
-   - a. Installation
-   - b. Dependencies
+   - Installation
+   - Dependencies
 3. Program Execution 
-   - a. ETL Pipeline
-   - b. ML Pipeline
-   - c. Web App
+   - ETL Pipeline
+   - ML Pipeline
+   - Web App
 4. Screenshots
 5. License and Acknowledgments
