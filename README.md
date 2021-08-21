@@ -40,6 +40,9 @@ python (>= 3.6) <br />
 3. Open a browser window and go to http://0.0.0.0:3001/ or http://localhost:3001/.
 
 ## 4. Screenshots
+1. Web app main page <br /> <img src = "https://github.com/khiara/DSND_Disaster_Response_Pipeline/blob/main/screenshots/Main%20page.PNG?raw=true" />
+2. Data visualization for training dataset <br /> <img src = "https://github.com/khiara/DSND_Disaster_Response_Pipeline/blob/main/screenshots/Visualizations.PNG?raw=true" />
+3. Sample message classification <br /> <img src = "https://github.com/khiara/DSND_Disaster_Response_Pipeline/blob/main/screenshots/Message%20classification.PNG?raw = true" />
 
 ## 5. Acknowledgments
 - [Udacity](http://udacity.com) Data Science Nanodegree Program provided instruction, inspiration, and guidance.
